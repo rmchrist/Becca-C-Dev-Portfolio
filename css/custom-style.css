@@ -2,6 +2,9 @@
 
 /* Header */ 
 
+
+/* Head and Nav Styling */
+
 header {
  color: violet;
  padding-top: 30px;
@@ -26,4 +29,7 @@ header {
   border-color: #7CA29D !important;
 }
 
+
+
+/* About me Section  */
 
