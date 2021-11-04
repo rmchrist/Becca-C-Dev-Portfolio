@@ -5,6 +5,25 @@
 header {
  color: violet;
  padding-top: 30px;
+ background-color: #343633;
+
 
 }
+
+.nav-item .nav1 {
+  background-color: #E2B6D9 !important;
+  border-color: #343633 !important;
+  border-bottom: 0px !important;
+}
+
+.nav-item .nav2 {
+  background-color: #58896D !important;
+  border-color: #58896D !important;
+}
+
+.nav-item .nav3 {
+  background-color: #7CA29D !important;
+  border-color: #7CA29D !important;
+}
+
 
